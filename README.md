@@ -11,8 +11,8 @@ Scripts de modification par lots de métadonnées via csw
 
 exemple de commande pour effectuer un rechercher remplacer sur toutes les métadonnées du catalogue:
 
-    cswbot.py --url=http://geobretagne.fr/geonetwork/srv/fre/csw --user=**** --password=**** --oldvalue="@region-bretagne.fr"
-    --newvalue="@bretagne.bzh" --where=all
+    cswbot.py --url=http://geobretagne.fr/geonetwork/srv/fre/csw --user=**** --password=**** 
+    --oldvalue="@region-bretagne.fr" --newvalue="@bretagne.bzh" --where=all
 
 
 
